@@ -1,8 +1,8 @@
 # My design for a laser cut 3U 84hp plywood eurorack case
 
-**NOTE: DON'T USE THIS, IT IS PROBLEMATIC IN SO MANY LAVELS...**
+**NOTE: DON'T USE THIS, IT IS PROBLEMATIC IN SO MANY LEVELS...**
 
-You can find more info about the issues [here](blog.tomgurion.me/eurorack-case.html).
+You can find more info about the issues [here](http://blog.tomgurion.me/eurorack-case.html).
 
 ## The case
 
